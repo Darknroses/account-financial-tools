@@ -8,6 +8,7 @@ setuptools.setup(
     description="Meta package for oca-account-financial-tools Odoo addons",
     version=version,
     install_requires=[
+        'odoo14-addon-account_account_constraint_code',
         'odoo14-addon-account_asset_batch_compute',
         'odoo14-addon-account_asset_management',
         'odoo14-addon-account_asset_management_menu',
@@ -31,6 +32,7 @@ setuptools.setup(
         'odoo14-addon-account_move_fiscal_month',
         'odoo14-addon-account_move_fiscal_year',
         'odoo14-addon-account_move_force_removal',
+        'odoo14-addon-account_move_line_check_number',
         'odoo14-addon-account_move_line_menu',
         'odoo14-addon-account_move_line_purchase_info',
         'odoo14-addon-account_move_line_sale_info',
@@ -41,6 +43,7 @@ setuptools.setup(
         'odoo14-addon-account_move_template',
         'odoo14-addon-account_netting',
         'odoo14-addon-account_no_default',
+        'odoo14-addon-account_reconcile_show_boolean',
         'odoo14-addon-account_sequence_option',
         'odoo14-addon-account_template_active',
         'odoo14-addon-base_vat_optional_vies',
