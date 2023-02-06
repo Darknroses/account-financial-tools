@@ -28,7 +28,7 @@ addon | version | maintainers | summary
 [account_asset_management_menu](account_asset_management_menu/) | 14.0.1.0.0 |  | Assets Management Menu
 [account_asset_number](account_asset_number/) | 14.0.1.0.0 |  | Assets Number
 [account_asset_transfer](account_asset_transfer/) | 14.0.1.0.1 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Asset Transfer from AUC to Asset
-[account_balance_line](account_balance_line/) | 14.0.1.0.0 |  | Display balance totals in move line view
+[account_balance_line](account_balance_line/) | 14.0.1.1.0 |  | Display balance totals in move line view
 [account_cash_deposit](account_cash_deposit/) | 14.0.1.1.0 |  | Manage cash deposits and cash orders
 [account_chart_update](account_chart_update/) | 14.0.2.0.5 |  | Wizard to update a company's account chart from a template
 [account_check_deposit](account_check_deposit/) | 14.0.1.1.0 |  | Manage deposit of checks to the bank
@@ -37,11 +37,11 @@ addon | version | maintainers | summary
 [account_fiscal_year](account_fiscal_year/) | 14.0.1.2.0 | [![eLBati](https://github.com/eLBati.png?size=30px)](https://github.com/eLBati) | Create Account Fiscal Year
 [account_invoice_constraint_chronology](account_invoice_constraint_chronology/) | 14.0.1.0.0 |  | Account Invoice Constraint Chronology
 [account_journal_general_sequence](account_journal_general_sequence/) | 14.0.1.0.2 | [![yajo](https://github.com/yajo.png?size=30px)](https://github.com/yajo) | Add configurable sequence to account moves, per journal
-[account_journal_lock_date](account_journal_lock_date/) | 14.0.1.0.1 |  | Lock each journal independently
+[account_journal_lock_date](account_journal_lock_date/) | 14.0.2.0.0 |  | Lock each journal independently
 [account_loan](account_loan/) | 14.0.1.0.2 |  | Account Loan management
 [account_lock_date_update](account_lock_date_update/) | 14.0.2.0.0 |  | Allow an Account adviser to update locking date without having access to all technical settings
 [account_lock_to_date](account_lock_to_date/) | 14.0.1.0.0 |  | Allows to set an account lock date in the future.
-[account_menu](account_menu/) | 14.0.1.1.1 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Adds missing menu entries for Account module
+[account_menu](account_menu/) | 14.0.1.2.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Adds missing menu entries for Account module
 [account_move_budget](account_move_budget/) | 14.0.1.0.0 |  | Create Accounting Budgets
 [account_move_fiscal_month](account_move_fiscal_month/) | 14.0.1.0.0 |  | Display the fiscal month on journal entries/item
 [account_move_fiscal_year](account_move_fiscal_year/) | 14.0.1.0.1 |  | Display the fiscal year on journal entries/item
@@ -49,7 +49,7 @@ addon | version | maintainers | summary
 [account_move_line_check_number](account_move_line_check_number/) | 14.0.1.0.0 | [![ps-tubtim](https://github.com/ps-tubtim.png?size=30px)](https://github.com/ps-tubtim) | Add the check number in the journal items
 [account_move_line_menu](account_move_line_menu/) | 14.0.1.0.0 |  | Adds a Journal Items menu
 [account_move_line_purchase_info](account_move_line_purchase_info/) | 14.0.1.0.3 |  | Introduces the purchase order line to the journal items
-[account_move_line_sale_info](account_move_line_sale_info/) | 14.0.1.0.2 |  | Introduces the purchase order line to the journal items
+[account_move_line_sale_info](account_move_line_sale_info/) | 14.0.1.0.3 |  | Introduces the purchase order line to the journal items
 [account_move_line_tax_editable](account_move_line_tax_editable/) | 14.0.2.0.0 |  | Allows to edit taxes on non-posted account move lines
 [account_move_line_used_currency](account_move_line_used_currency/) | 14.0.1.0.0 |  | Account Move Line Amount Currency
 [account_move_name_sequence](account_move_name_sequence/) | 14.0.1.4.0 | [![alexis-via](https://github.com/alexis-via.png?size=30px)](https://github.com/alexis-via) [![moylop260](https://github.com/moylop260.png?size=30px)](https://github.com/moylop260) [![frahikLV](https://github.com/frahikLV.png?size=30px)](https://github.com/frahikLV) | Generate journal entry number from sequence
