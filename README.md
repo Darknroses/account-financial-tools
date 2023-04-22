@@ -23,25 +23,27 @@ addon | version | maintainers | summary
 --- | --- | --- | ---
 [account_account_constraint_code](account_account_constraint_code/) | 14.0.1.0.0 |  | Forbid modification of code when account move line linked to the account
 [account_asset_batch_compute](account_asset_batch_compute/) | 14.0.1.0.0 |  | Add the possibility to compute assets in batch
+[account_asset_compute_batch](account_asset_compute_batch/) | 14.0.1.0.0 |  | Assets - Compute Depre. in Batch
+[account_asset_from_expense](account_asset_from_expense/) | 14.0.1.0.0 |  | Assets from Expenses
 [account_asset_low_value](account_asset_low_value/) | 14.0.1.0.0 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Assets Management - Low Value Asset
-[account_asset_management](account_asset_management/) | 14.0.2.8.0 |  | Assets Management
+[account_asset_management](account_asset_management/) | 14.0.3.0.0 |  | Assets Management
 [account_asset_management_menu](account_asset_management_menu/) | 14.0.1.0.0 |  | Assets Management Menu
 [account_asset_number](account_asset_number/) | 14.0.1.0.0 |  | Assets Number
 [account_asset_transfer](account_asset_transfer/) | 14.0.1.0.1 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Asset Transfer from AUC to Asset
 [account_balance_line](account_balance_line/) | 14.0.1.1.0 |  | Display balance totals in move line view
-[account_cash_deposit](account_cash_deposit/) | 14.0.1.1.0 |  | Manage cash deposits and cash orders
-[account_chart_update](account_chart_update/) | 14.0.2.0.5 |  | Wizard to update a company's account chart from a template
+[account_cash_deposit](account_cash_deposit/) | 14.0.1.2.0 |  | Manage cash deposits and cash orders
+[account_chart_update](account_chart_update/) | 14.0.2.1.0 |  | Wizard to update a company's account chart from a template
 [account_check_deposit](account_check_deposit/) | 14.0.1.1.0 |  | Manage deposit of checks to the bank
 [account_fiscal_month](account_fiscal_month/) | 14.0.1.0.0 |  | Provide a fiscal month date range type
 [account_fiscal_position_vat_check](account_fiscal_position_vat_check/) | 14.0.1.2.0 |  | Check VAT on invoice validation
-[account_fiscal_year](account_fiscal_year/) | 14.0.1.2.0 | [![eLBati](https://github.com/eLBati.png?size=30px)](https://github.com/eLBati) | Create Account Fiscal Year
+[account_fiscal_year](account_fiscal_year/) | 14.0.1.2.1 | [![eLBati](https://github.com/eLBati.png?size=30px)](https://github.com/eLBati) | Create Account Fiscal Year
 [account_invoice_constraint_chronology](account_invoice_constraint_chronology/) | 14.0.1.0.0 |  | Account Invoice Constraint Chronology
 [account_journal_general_sequence](account_journal_general_sequence/) | 14.0.1.0.2 | [![yajo](https://github.com/yajo.png?size=30px)](https://github.com/yajo) | Add configurable sequence to account moves, per journal
 [account_journal_lock_date](account_journal_lock_date/) | 14.0.2.0.0 |  | Lock each journal independently
-[account_loan](account_loan/) | 14.0.1.0.2 |  | Account Loan management
+[account_loan](account_loan/) | 14.0.1.0.6 |  | Account Loan management
 [account_lock_date_update](account_lock_date_update/) | 14.0.2.0.0 |  | Allow an Account adviser to update locking date without having access to all technical settings
 [account_lock_to_date](account_lock_to_date/) | 14.0.1.0.0 |  | Allows to set an account lock date in the future.
-[account_menu](account_menu/) | 14.0.1.2.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Adds missing menu entries for Account module
+[account_menu](account_menu/) | 14.0.1.2.1 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Adds missing menu entries for Account module
 [account_move_budget](account_move_budget/) | 14.0.1.0.0 |  | Create Accounting Budgets
 [account_move_fiscal_month](account_move_fiscal_month/) | 14.0.1.0.0 |  | Display the fiscal month on journal entries/item
 [account_move_fiscal_year](account_move_fiscal_year/) | 14.0.1.0.1 |  | Display the fiscal year on journal entries/item
@@ -52,14 +54,15 @@ addon | version | maintainers | summary
 [account_move_line_sale_info](account_move_line_sale_info/) | 14.0.1.0.3 |  | Introduces the purchase order line to the journal items
 [account_move_line_tax_editable](account_move_line_tax_editable/) | 14.0.2.0.0 |  | Allows to edit taxes on non-posted account move lines
 [account_move_line_used_currency](account_move_line_used_currency/) | 14.0.1.0.0 |  | Account Move Line Amount Currency
-[account_move_name_sequence](account_move_name_sequence/) | 14.0.1.4.0 | [![alexis-via](https://github.com/alexis-via.png?size=30px)](https://github.com/alexis-via) [![moylop260](https://github.com/moylop260.png?size=30px)](https://github.com/moylop260) [![frahikLV](https://github.com/frahikLV.png?size=30px)](https://github.com/frahikLV) | Generate journal entry number from sequence
+[account_move_name_sequence](account_move_name_sequence/) | 14.0.1.4.1 | [![alexis-via](https://github.com/alexis-via.png?size=30px)](https://github.com/alexis-via) [![moylop260](https://github.com/moylop260.png?size=30px)](https://github.com/moylop260) [![frahikLV](https://github.com/frahikLV.png?size=30px)](https://github.com/frahikLV) | Generate journal entry number from sequence
 [account_move_print](account_move_print/) | 14.0.1.0.0 | [![JordiBForgeFlow](https://github.com/JordiBForgeFlow.png?size=30px)](https://github.com/JordiBForgeFlow) | Adds the option to print Journal Entries
 [account_move_reversal_choose_method](account_move_reversal_choose_method/) | 14.0.1.0.0 |  | Let's choose the Credit Method when adding a credit note to a journal entry.
-[account_move_template](account_move_template/) | 14.0.1.1.1 |  | Templates for recurring Journal Entries
-[account_netting](account_netting/) | 14.0.1.0.0 |  | Compensate AR/AP accounts from the same partner
+[account_move_template](account_move_template/) | 14.0.1.1.2 |  | Templates for recurring Journal Entries
+[account_netting](account_netting/) | 14.0.1.0.1 |  | Compensate AR/AP accounts from the same partner
 [account_no_default](account_no_default/) | 14.0.1.0.0 | [![dreispt](https://github.com/dreispt.png?size=30px)](https://github.com/dreispt) | Remove default expense account for vendor bills journal
 [account_reconcile_show_boolean](account_reconcile_show_boolean/) | 14.0.1.0.0 | [![remi-filament](https://github.com/remi-filament.png?size=30px)](https://github.com/remi-filament) | Allows to create reconciliable accounts by showing boolean on form view
 [account_sequence_option](account_sequence_option/) | 14.0.1.0.2 | [![kittiu](https://github.com/kittiu.png?size=30px)](https://github.com/kittiu) | Manage sequence options for account.move, i.e., invoice, bill, entry
+[account_spread_cost_revenue](account_spread_cost_revenue/) | 14.0.1.0.0 | [![astirpe](https://github.com/astirpe.png?size=30px)](https://github.com/astirpe) | Spread costs and revenues over a custom period
 [account_template_active](account_template_active/) | 14.0.1.0.0 | [![legalsylvain](https://github.com/legalsylvain.png?size=30px)](https://github.com/legalsylvain) | Allow to disable / enable account template items (tax, fiscal position, account)
 [base_vat_optional_vies](base_vat_optional_vies/) | 14.0.1.0.3 |  | Optional validation of VAT via VIES
 [product_category_tax](product_category_tax/) | 14.0.1.1.0 |  | Configure taxes in the product category
